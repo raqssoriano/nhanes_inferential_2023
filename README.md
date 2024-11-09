@@ -18,16 +18,16 @@
 ## Dataset Overview
 #### *The following NHANES variables were used in an attempt to perform the analysis:*
 
-  - **Marital Status** (`DMDMARTZ`)
-  - **Education Level** (`DMDEDUC2`)
-  - **Age in Years** (`RIDAGEYR`)
-  - **Systolic Blood Pressure** (`BPXOSY3`)
-  - **Diastolic Blood Pressure** (`BPXODI3`)
-  - **Vitamin D Lab Interpretation** (`LBDVD2LC`)
-  - **Hepatitis B Lab Antibodies** (`LBXHBS`)
-  - **Weak/Failing Kidneys** (`KIQ022`)
-  - **Minutes of Sedentary Behavior** (`PAD680`)
-  - **Current Self-Reported Weight** (`WHD020`)
+  - [**Marital Status**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/DEMO_L.htm#DMDMARTZ) (`DMDMARTZ`)
+  - [**Education Level**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/DEMO_L.htm#DMDEDUC2) (`DMDEDUC2`)
+  - [**Age in Years**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/DEMO_L.htm#RIDAGEYR) (`RIDAGEYR`)
+  - [**Systolic Blood Pressure**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/BPXO_L.htm#BPXOSY3) (`BPXOSY3`)
+  - [**Diastolic Blood Pressure**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/BPXO_L.htm#BPXODI3) (`BPXODI3`)
+  - [**Vitamin D Lab Interpretation**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/VID_L.htm#LBDVD2LC) (`LBDVD2LC`)
+  - [**Hepatitis B Lab Antibodies**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/HEPB_S_L.htm#LBXHBS) (`LBXHBS`)
+  - [**Weak/Failing Kidneys**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/KIQ_U_L.htm#KIQ022) (`KIQ022`)
+  - [**Minutes of Sedentary Behavior**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/PAQ_L.htm#PAD680) (`PAD680`)
+  - [**Current Self-Reported Weight**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/WHQ_L.htm#WHD020) (`WHD020`)
     
 ---
 ## Inferential Analysis
