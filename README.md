@@ -45,6 +45,6 @@
    - **Question 4**: "Is there a correlation between self-reported weight and minutes of sedentary behavior?"  
      - Variables: `WHD020` (self-reported weight, cleaned) and `PAD680` (sedentary behavior time, cleaned).
 
-   - **Question 5 (Creative Analysis)**:
+   - **Question 5 (Creative Analysis)**: 
 
 
