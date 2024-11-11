@@ -28,7 +28,9 @@
   - [**Weak/Failing Kidneys**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/KIQ_U_L.htm#KIQ022) (`KIQ022`)
   - [**Minutes of Sedentary Behavior**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/PAQ_L.htm#PAD680) (`PAD680`)
   - [**Current Self-Reported Weight**](https://wwwn.cdc.gov/Nchs/Nhanes/2021-2022/WHQ_L.htm#WHD020) (`WHD020`)
-    
+
+**`Note`**: Please click the **blue text** to be directed to the main data file for each key variable.
+
 ---
 ## Inferential Analysis
 #### *The following questions were used to perform the analysis:*
